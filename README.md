@@ -34,5 +34,12 @@ Welcome to my GitHub! I'm Remy, a baker graduate who's transitioning into Softwa
 - I blog. About food. Recipes and stuff. 
 
 ### ☕ Get in touch
-- 💬 [Facebook](https://www.facebook.com/remy.nguyen.04/)
-- 🐦 [Twitter](https://twitter.com/remy_nguyen96)
+<p align="center">
+<a href="https://www.facebook.com/remy.nguyen.04"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-remy.nguyen.04-blue?style=flat-square&logo=facebook"></a>
+<a href="https://twitter.com/remy_nguyen96"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-remy__nguyen96-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:remynguyen96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-remynguyen96@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+</br>
+
+[![Remy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=remynguyen96&show_icons=true)](https://github.com/remynguyen96)
