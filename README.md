@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **remynguyen96/remynguyen96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,23 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Remy Nguyen](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+<br>
+<br>
+Welcome to my GitHub! I'm Remy, a baker graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp. I am building a solid foundation in both frontend and backend technologies and languages. I am currently working as a Development Engineer in Saigon. Outside of work, I contribute to open source libraries.
 
-<pre>
-----------------------------------------
-<span>Remy, Hello World!!</span>
-----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
-</pre>
+### ✔️ I'm currently learning
+- JavaScript
+- ReactJS
+- NodeJS
 
-I am currently working as a Development Engineer. Outside of work, I contribute to open source libraries. 👋
+### 👩‍💻 I'm working on
+- Building projects and my portfolio website. 
 
-### Check out my social medias:
+### 💡 Goals for 2020
+- Complete #100DaysOfCode challenge
+- Build 10+ side projects 
+- Become skilled in JavaScript
 
+### 🌴 Fun facts
+- I blog. About food. Recipes and stuff. 
+
+### ☕ Get in touch
 - 💬 [Facebook](https://www.facebook.com/remy.nguyen.04/)
 - 🐦 [Twitter](https://twitter.com/remy_nguyen96)
-
-![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
